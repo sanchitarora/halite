@@ -1,0 +1,9 @@
+venv/
+__MACOSX/
+dist/
+.idea/
+*.egg-info/
+
+*.pyc
+*.zip
+.DS_Store
